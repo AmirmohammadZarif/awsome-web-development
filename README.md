@@ -14,3 +14,7 @@
 #### Frontity: The React framework for WordPress
 - [Website](https://frontity.org/)
 
+#### ZMQ: A high-performance asynchronous messaging library
+- [Website](https://zeromq.org/get-started/)
+
+
